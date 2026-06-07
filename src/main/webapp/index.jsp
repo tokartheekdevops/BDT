@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1>Hello Jenkins CI/CD</h1>
+<h1>Welcome to Jenkins CI/CD Pipeline</h1>
 </body>
 </html>
